@@ -1,5 +1,5 @@
 /**Text Art
-@authour Jake Nellesen, Tessia Nguyen, Diego Campos
+@author Jake Nellesen, Tessia Nguyen, Diego Campos
 @version September 1, 2021
 */
 
