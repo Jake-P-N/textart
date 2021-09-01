@@ -1,6 +1,7 @@
-// Text Art
-// @authour Jake Nellesen
-// @version September 1, 2021
+/**Text Art
+@authour Jake Nellesen, Tessia Nguyen, Diego Campos
+@version September 1, 2021
+*/
 
 public class textart {
     public static void main(String[] args) throws Exception {
